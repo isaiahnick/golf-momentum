@@ -188,7 +188,6 @@ more than 10%. Course fit, week conditions, and snapshot error don't explain it 
 | `ppc.py` | Posterior predictive check on lag-1 correlation. |
 | `prior_sensitivity.py` | Sensitivity of $\rho_{pop}$ to prior specification. |
 | `plot_diagnostics.py` | Trace, posterior, forest and shrinkage plots. |
-| `project_proposal.md` | Original research proposal. |
 | `results.txt` | Raw sampler output. |
 
 ```bash
