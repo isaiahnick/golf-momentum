@@ -205,7 +205,7 @@ The source SQLite database is not included (API-licensed DataGolf data).
 
 ## Presentation
 
-Full slide deck: [`report/ST540_momentum_presentation.pdf`](report/ST540_momentum_presentation.pdf)
+Full slide deck: [`report/momentum_presentation.pdf`](report/momentum_presentation.pdf)
 
 ## References
 
